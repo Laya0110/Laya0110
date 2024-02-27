@@ -6,7 +6,7 @@
 </div>
 
 <a href="https://www.linkedin.com/in/laya-m-5569a326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://camo.githubusercontent.com/66ddc0c3999080e866e531e40a816db84150a1d75788a686102b0e66c8b4ecfb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
+    <a target="_blank" href="https://icons8.com/icon/13930/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <a/>
 
 <br/>
