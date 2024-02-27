@@ -5,9 +5,7 @@
     <h3>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h3/>
 </div>
 
-<a href="https://www.linkedin.com/in/laya-m-5569a326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <a target="_blank" href="https://icons8.com/icon/13930/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a/>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="444" height="333">
 
 <br/>
 
@@ -23,5 +21,3 @@
 <img align="left" alt="JavaScript" width="30px" src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 </div>
 
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="444" height="333">
