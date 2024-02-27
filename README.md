@@ -5,16 +5,13 @@
     <h3>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h3/>
 </div>
 
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.laya_mhd._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laya-m-5569a326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>
 <hr/>
 
 
-### <span style='font-size:100px;'>&#128187;</span> My skills
+## <span style='font-size:100px;'>&#128187;</span> My skills
  
 <div style="display: flex; align-items: center; justify-content: space-between;">
 <img align="left" alt="Git" width="30px" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
