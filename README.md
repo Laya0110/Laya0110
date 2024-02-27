@@ -10,7 +10,6 @@
 <br/>
 <hr/>
 
-
 ## <span style='font-size:100px;'>&#128187;</span> My skills
  
 <div style="display: flex; align-items: center; justify-content: space-between;">
