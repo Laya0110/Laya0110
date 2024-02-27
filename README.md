@@ -6,7 +6,7 @@
 
 
 <span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming.<br/>
-<span style='font-size:100px;'>&#9997;</span>I am currently working in the field of Front-end development.<span/> 
+I am currently working in the field of Front-end development. 
     
 
 <hr/>
