@@ -1,12 +1,11 @@
 
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
 </a> 
 
-<div>
-<span style='font-size:100px;'>&#9997;</span>
-    <h3>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h3/>
+<div style="display:flex;">
+
+<span style='font-size:100px;'>&#9997;</span><h4>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h4/>
 <img data-target="animated-image.replacedImage" alt="87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="display: block; opacity: 1;">
 </div>
 
@@ -24,3 +23,5 @@
 <img align="left" alt="CSS" width="30px" src="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
 
 <img align="left" alt="JavaScript" width="30px" src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+
+
