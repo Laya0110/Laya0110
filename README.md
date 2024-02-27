@@ -5,9 +5,6 @@
     <h3>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h3/>
 </div>
 
-<a href="https://www.linkedin.com/in/laya-m-5569a326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="/ashkanRmk/ashkanRmk/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
-<a/>
 
 <br/>
 <hr/>
