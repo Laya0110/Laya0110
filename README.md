@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 <a  href="https://git.io/typing-svg">
     <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
 </a> 
