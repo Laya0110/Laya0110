@@ -6,7 +6,8 @@
 
 
 <span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. 
-    
+
+<a target="_blank" href="https://icons8.com/icon/Xy10Jcu1L2Su/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <hr/>
 
