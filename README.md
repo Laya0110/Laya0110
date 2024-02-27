@@ -4,8 +4,7 @@
 </a> 
 
 <div style="display:flex;">
-
-<span style='font-size:100px;'>&#9997;</span><h4>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h4/>
+<h4>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h4/>
 <img data-target="animated-image.replacedImage" alt="87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="display: block; opacity: 1;">
 </div>
 
