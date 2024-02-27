@@ -5,7 +5,8 @@
 </a> 
 
 
-<span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end development.<span/> 
+<span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming
+I am currently working in the field of Front-end development.<span/> 
     
 
 <hr/>
