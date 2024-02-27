@@ -2,7 +2,7 @@
     <a  href="https://git.io/typing-svg">
         <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
     </a>
-    <h4>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <h4/>
+    I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development.
 </div>
 
 <br/>
