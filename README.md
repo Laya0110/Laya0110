@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
 </a> 
 
-<div style='display: flex;'>
-<p style='display: inline;'>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <p/>
+<div style='display: flex'>
+<p style='display: inline'>I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. <p/>
 <img data-target="animated-image.replacedImage" alt="87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="display: block; opacity: 1;">
 </div>
 
