@@ -7,7 +7,7 @@
 
 <span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming,I am currently working in the field of Front-end Development. 
 
-<path xmlns="http://www.w3.org/2000/svg" fill="#fff" d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5 s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z"/>
+<i class="fa fa-instagram" style="font-size:36px"></i>
 
 <hr/>
 
