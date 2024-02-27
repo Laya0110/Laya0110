@@ -5,7 +5,9 @@
 </a> 
 
 <div>
-<span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming, I am currently working in the field of Front-end development.<span/>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming
+    <br/>I am currently working in the field of Front-end development.<span/>
 <div/>
 
 
