@@ -5,14 +5,14 @@
 </a> 
 
 <div>
-<span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming, I am currently working in the field of Front-end development<span/>
+<span style='font-size:100px;'>&#9997;</span> I'm Laya, a software engineer curious about the beautiful world of programming, I am currently working in the field of Front-end development.<span/>
 <div/>
 
 
 <hr/>
 
 
- ### <span style='font-size:100px;'>&#128187;</span> My skills: 
+ ### <span style='font-size:100px;'>&#128187;</span> My skills
  
 
 <img align="left" alt="Git" width="30px" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
