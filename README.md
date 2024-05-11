@@ -2,7 +2,7 @@
     <a  href="https://git.io/typing-svg">
         <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
     </a>
-    <p>I'm Laya, a curious computer engineer in the beautiful world of programming. Currently, I work as a front-end developer. If you want to know more about me, visit my <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/" target="_blank" text-decoration:none;>Linkedin</a>.<p/>
+    <p>I'm Laya, a curious computer engineer in the beautiful world of programming. Currently, I work as a front-end developer. If you want to know more about me, visit my <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/" target="_blank" text-decoration:none >Linkedin</a>.<p/>
 </div>
  <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 
