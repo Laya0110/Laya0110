@@ -5,7 +5,7 @@
     <p>I'm Laya, A curious computer science in the beautiful world of programming. Currently, I work as a front-end developer. If you want to know more about me, visit my <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/">Linkedin</a>.<p/>
 </div>
 <p>⚡ If you want to reach out, say hello via social media.</p>
- <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+ <be> <br> <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 
 <br/>
 
