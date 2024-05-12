@@ -1,4 +1,4 @@
-⁷<div>
+<div>
     <a  href="https://git.io/typing-svg">
         <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
     </a>
@@ -7,7 +7,7 @@
 <p>⚡ If you want to reach out, say hello via social media.</p>
  <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 
-<br>
+<br><br>
 
 ## <span style='font-size:100px;'>&#128187;</span> My skills
 
