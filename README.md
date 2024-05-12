@@ -7,7 +7,7 @@
 <p>⚡ If you want to reach out, say hello via social media.</p>
  <a href="https://www.linkedin.com/in/laya-Mahmoodi-a76553308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 
-<br><br>
+<br>
 
 ## <span style='font-size:100px;'>&#128187;</span> My skills
 
