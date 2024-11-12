@@ -12,7 +12,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 <img align="left" alt="Git" width="30px" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="HTML" width="30px" src="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
+<img align="left" alt="HTML" width="30px" src="https://camo.githubusercontent.com/d91a719ff03fb705982d4462a546806028623ddf5c558c7cf969c41afa7310e0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
 
 <img align="left" alt="CSS" width="30px" src="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
 
