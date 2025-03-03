@@ -5,7 +5,7 @@
     </a>
     <p>I'm Laya, a curious computer engineer exploring the beautiful world of programming.  If you want to know more about me, visit my<a href="https://www.linkedin.com/in/laya-mahmoodi-335512326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a>.<p/>
     </div>
-    <div style="display:40%">
+    <div style="display:60%">
     <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
     </div>
 </div><br>
