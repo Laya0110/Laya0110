@@ -1,6 +1,6 @@
 
-<div style="display: flex; width: 100%;">
-            <a href="https://git.io/typing-svg">
+<div style=" width: 100%;">
+                        <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+welcome+to+my+Githube!" alt="Typing SVG" />
         </a>
     <div style=" width: 60%;">
@@ -9,10 +9,10 @@
            <a href="https://www.linkedin.com/in/laya-mahmoodi-335512326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a>.
         </p>
     </div>
-    <div style=" width: 40%;">
-        <img style="max-width: 100%; height: auto;" 
-             src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
-    </div>
+<div  style=" width: 40%;">
+            <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+</div>
+            
 </div>
 
  <h2 style='font-size:100px;'>My skills</h2> 
