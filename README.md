@@ -7,11 +7,9 @@
 
 ## <span style='font-size:100px;'>&#128187;</span> My skills
 
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
  
 <div style="display: flex; align-items: center; justify-content: space-between;">
-<img align="left" width="30px" src="https://camo.githubusercontent.com/34b891c76d258e4b0ee593443e5cbc2506cdbb7d3cd6bc0e4beffa87a9c1611b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
-
 <img align="left" width="30px" src="https://camo.githubusercontent.com/d91a719ff03fb705982d4462a546806028623ddf5c558c7cf969c41afa7310e0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
 
 <img align="left" width="30px" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
