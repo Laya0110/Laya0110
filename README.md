@@ -7,6 +7,10 @@
 
 I'm Laya, a curious computer engineer exploring the beautiful world of programming. If you want to know more about me, visit my <a href="https://www.linkedin.com/in/laya-mahmoodi-335512326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a>.
 
+
+
+
+
 <h2 style='font-size:100px;'>My skills</h2> 
  
 <div style="display: flex; align-items: center; justify-content: space-between;">
